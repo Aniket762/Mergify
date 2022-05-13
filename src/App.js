@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>Let's try out Mergify</p>
+        <p className="small">This text is not that important</p>
       </header>
     </div>
   );
